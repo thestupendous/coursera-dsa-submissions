@@ -23,7 +23,6 @@ public:
     }
 };
 
-
 int main_with_large_stack_space() {
   std::ios_base::sync_with_stdio(0);
   int n;
